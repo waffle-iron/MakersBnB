@@ -3,6 +3,7 @@
 [![Stories in Ready](https://badge.waffle.io/kwilson541/makersbnb.png?label=ready&title=Ready)](https://waffle.io/kwilson541/makersbnb)
 [![Stories in Ready](https://badge.waffle.io/kwilson541/makersbnb.png?label=ready&title=Ready)](https://waffle.io/kwilson541/makersbnb)
 [![Stories in Ready](https://badge.waffle.io/kwilson541/makersbnb.png?label=ready&title=Ready)](https://waffle.io/kwilson541/makersbnb)
+[![Stories in Ready](https://badge.waffle.io/kwilson541/makersbnb.png?label=ready&title=Ready)](https://waffle.io/kwilson541/makersbnb)
 [![Stories in Ready](https://badge.waffle.io/Unicornelia/makersBnB.png?label=ready&title=Ready)](https://waffle.io/Unicornelia/makersBnB)
 [![Stories in Ready](https://badge.waffle.io/feezy26/makersbnb.png?label=ready&title=Ready)](https://waffle.io/feezy26/makersbnb)
 [![Stories in Ready](https://badge.waffle.io/cgulli/makersbnb.png?label=ready&title=Ready)](https://waffle.io/cgulli/makersbnb)
