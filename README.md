@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/w-schwier/makersbnb.png?label=ready&title=Ready)](https://waffle.io/w-schwier/makersbnb)
 [![Stories in Ready](https://badge.waffle.io/samjones1001/makersbnb.png?label=ready&title=Ready)](https://waffle.io/samjones1001/makersbnb)
 [![Stories in Ready](https://badge.waffle.io/samjones1001/makersbnb.png?label=ready&title=Ready)](https://waffle.io/samjones1001/makersbnb)
 [![Stories in Ready](https://badge.waffle.io/samjones1001/makersbnb.png?label=ready&title=Ready)](https://waffle.io/samjones1001/makersbnb)
